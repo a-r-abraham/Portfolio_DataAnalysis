@@ -9,8 +9,12 @@
 <b>IBM Data Analyst Professional Certificate</b>
 
 * <b>Introduction to Data Analytics<b>
-
-      https://www.coursera.org/account/accomplishments/certificate/77CWHR8LYDRW
+      
+      5 - week course on the basics of data:
+      data wrangling                statistics              
+      
+      
+     <a href="https://www.coursera.org/account/accomplishments/certificate/77CWHR8LYDRW" target="_blank" >Link to Certificate</a>
       
 * <b>Excel Basics for Data Analysis<b>
 
@@ -46,7 +50,7 @@
       
 * <b>IBM Data Analyst Capstone Project</b>
 
-         - IN PROGRESS - 
+        - IN PROGRESS - 
 
 <b>Python</b>
 
