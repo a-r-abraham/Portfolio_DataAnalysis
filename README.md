@@ -5,24 +5,26 @@
 
 * <b>Introduction to Data Analytics<b>
       
-      5-week course on the basics of data: data ecosystem and languages, data repositories and big data platforms, 
-      data gathering and wrangling, statistical analysis and data mining, communicating data analysis findings, 
-      the role of data analysts and career opportunities
+      5-week course on the basics of data: data ecosystem and languages, data repositories 
+      and big data platforms, data gathering and wrangling, statistical analysis and data mining, 
+      communicating data analysis findings, the role of data analysts and career opportunities
       
       
      <a href="https://www.coursera.org/account/accomplishments/certificate/77CWHR8LYDRW" target="_blank">Link to Certificate</a>
       
 * <b>Excel Basics for Data Analysis<b>
       
-      5-week course on Excel basics: spreadsheets (copying, filling, formatting, keyboard shortcuts, formulas), 
-      data cleaning (cleaning duplicated/inaccurate data), filtering and sorting data, Pivot tables
+      5-week course on Excel basics: spreadsheets (copying, filling, formatting, 
+      keyboard shortcuts, formulas), data cleaning (cleaning duplicated/inaccurate data), 
+      filtering and sorting data, Pivot tables
 
      <a href="https://www.coursera.org/account/accomplishments/certificate/YYSF9U246R3L" target="_blank">Link to Certificate</a>
 
 * <b>Data Visualization and Dashboards with Excel and Cognos<b>
       
-      4-week course on creating charts and dashboards: creating basic charts (line, pie, bar, pivot), 
-      creating advanced charts (treemaps, scattercharts, histograms, filled map charts, sparklines), 
+      4-week course on creating charts and dashboards: creating basic 
+      charts (line, pie, bar, pivot), creating advanced charts (treemaps, 
+      scatter charts, histograms, filled map charts, sparklines), 
       dashboards (Excel, IBM Cognos Analytics)
       
 
@@ -31,10 +33,12 @@
 
 * <b>Python for Data Science, AI & Development<b>
       
-      5-week course on Python: basics (types, expressions and variables, strings), data structures 
-      (lists, tuples, dictionaries, sets),  programming fundamentals (conditions and branching, loops, functions, 
-      exception handling, objects and classes), working with data (reading and writing files with Open, pandas, 
-      one dimensional and two dimensional numpy), APIs and data collection (webscraping using BeautifulSoup, REST APIs) 
+      5-week course on Python: basics (types, expressions and variables, strings), 
+      data structures (lists, tuples, dictionaries, sets),  programming 
+      fundamentals (conditions and branching, loops, functions, exception handling, 
+      objects and classes), working with data (reading and writing files with Open, pandas, 
+      one dimensional and two dimensional numpy), APIs and data collection 
+      (webscraping using BeautifulSoup, REST APIs) 
 
     
      <a href="https://www.coursera.org/account/accomplishments/certificate/VVCSZLXUD5QW" target="_blank">Link to Certificate</a>
