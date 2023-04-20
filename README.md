@@ -1,7 +1,7 @@
 
 # Certifications
 
-<b>IBM Data Analyst Professional Certificate</b>
+### <b>IBM Data Analyst Professional Certificate</b>
 
 * <b>Introduction to Data Analytics<b>
       
@@ -121,7 +121,7 @@
         final presentation
   
 
-<b>Python</b>
+### <b>General Python Courses</b>
 
 * <b>Python Project for Data Engineering<b>
 
@@ -137,8 +137,12 @@
       
 * <b>Introduction to Python Programming<b>
       
+      4-week course for learning Python: printing, operators, basic data types, intro into lists, 
+      loops and functions, data structures (sets, tuples, lists), dictionaries, files (reading,
+      writing, appending to a file)
       
-      https://www.coursera.org/account/accomplishments/certificate/2LKYW4QCT8CL
+     <a href="https://www.coursera.org/account/accomplishments/certificate/2LKYW4QCT8CL">Link to Certificate</a>
+      
       
 
 * <b>Data Analysis Using Python<b>
@@ -152,7 +156,7 @@
      <a href="https://www.coursera.org/account/accomplishments/certificate/PMNUJNFQDQCC">Link to Certificate</a>
 
 
-<b>Miscellaneous</b>
+### <b>Miscellaneous</b>
 
 * <b>Foundations: Data, Data, Everywhere<b>
       
