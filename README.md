@@ -1,3 +1,4 @@
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 <a href="https://github.com/a-r-abraham/Portfolio_DataAnalysis/edit/main/README.md#personal-projects" target="_blank"><b>Personal Projects<b></a>  | <a href="https://github.com/a-r-abraham/Portfolio_DataAnalysis/edit/main/README.md#ibm-data-analyst-professional-certificate" target="_blank"><b>Certifications<b></a> 
 
@@ -144,7 +145,8 @@ Because I do not have a undergraduate background in computer science, online cou
         charts, comparison of data using bar charts and line charts), building Cognos dashboard, 
         final presentation
         
-       #
+     #
+     
 
 ### <b>General Python Courses</b>
 
@@ -183,7 +185,7 @@ Because I do not have a undergraduate background in computer science, online cou
      
      <a href="https://www.coursera.org/account/accomplishments/certificate/PMNUJNFQDQCC">Link to Certificate</a>
 
-     #
+    #
 
 ### <b>Miscellaneous</b>
 
