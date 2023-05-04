@@ -103,12 +103,12 @@ Because I do not have a undergraduate background in computer science, online cou
       
       
      <a href="https://www.coursera.org/account/accomplishments/certificate/5W75L9BKSSCH" target="_blank">Link to Certificate</a>
-      
+     
+     <a href="https://www.credly.com/badges/4ca513e7-444e-4367-9c2d-c9b9b5d32c83/public_url" target="_blank">Link to Badge</a>
      #
      
 * <a href="https://www.coursera.org/learn/data-analysis-with-python?specialization=ibm-data-analyst" target="_blank"><b>Data Analysis with Python</b>  </a>   
       
-       - IN PROGRESS -
        
       6-week course on analyzing data with python: importing and exporting data, python packages 
       for data science, analyzing data with python, accessing databases with python, data
@@ -118,12 +118,14 @@ Because I do not have a undergraduate background in computer science, online cou
       multiple linear regression, polynomial regression and pipelines, measures for in-sample
       evaluation, prediction and decision making), model evaluation and refinement (overfitting,
       underfitting, model selection, ridge regression, grid search)
-       
+     
+     <a href="https://www.coursera.org/account/accomplishments/certificate/3RUJEUM5V2HY">Link to Certificate</a>
+     
      #
       
 * <a href="https://www.coursera.org/learn/python-for-data-visualization?specialization=ibm-data-analyst" target="_blank"><b>Data Visualization with Python</b></a> 
 
-      - IN PROGRESS - 
+     
         
       5-week course on how to visualize data using python: basic plotting with Matplotlib (line 
       plots, area plots, historgrams, bar charts), specialized visualization tools (pie plots, 
@@ -132,6 +134,8 @@ Because I do not have a undergraduate background in computer science, online cou
       intro to plotly basics(scatter, line, bar, bubble, histogram, pie, sunburst),
       dashboards with plotly
       
+     <a href="https://www.coursera.org/account/accomplishments/certificate/FXNAESSCAVXE">Link to Certificate</a>
+     
      #
       
 * <a href="https://www.coursera.org/learn/ibm-data-analyst-capstone-project?specialization=ibm-data-analyst" target="_blank"><b>IBM Data Analyst Capstone Project</b></a> 
