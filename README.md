@@ -150,7 +150,7 @@ Because I do not have a undergraduate background in computer science, online cou
         charts, comparison of data using bar charts and line charts), building Cognos dashboard, 
         final presentation
      
-      <a href="https://www.coursera.org/account/accomplishments/certificate/FXNAESSCAVXE">Certificate</a>
+     <a href="https://www.coursera.org/account/accomplishments/certificate/FXNAESSCAVXE">Certificate</a>
      #
      
 
