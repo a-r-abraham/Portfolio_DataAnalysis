@@ -9,7 +9,9 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 Because I do not have a undergraduate background in computer science, online courses are how I learn. I have provided a quick breakdown of every certificate I have/am currently working on and what all I learned with each one. 
 
       
-### <b>IBM Data Analyst Professional Certificate</b>
+### <b>IBM Data Analyst Professional Certificate</b> 
+
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/344AYGGGNQFK"><b>Certificate</b></a>
 
 *  <a href="https://www.coursera.org/learn/introduction-to-data-analytics?specialization=ibm-data-analyst" target="_blank"><b>Introduction to Data Analytics<b></a>
       
@@ -20,7 +22,7 @@ Because I do not have a undergraduate background in computer science, online cou
        the role of data analysts and career opportunities
 
       
-     <a href="https://www.coursera.org/account/accomplishments/certificate/77CWHR8LYDRW" target="_blank">Link to Certificate</a>
+     <a href="https://www.coursera.org/account/accomplishments/certificate/77CWHR8LYDRW" target="_blank">Certificate</a>
       
       #
       
@@ -31,7 +33,7 @@ Because I do not have a undergraduate background in computer science, online cou
       keyboard shortcuts, formulas), data cleaning (cleaning duplicated/inaccurate data), 
       filtering and sorting data, Pivot tables
 
-     <a href="https://www.coursera.org/account/accomplishments/certificate/YYSF9U246R3L" target="_blank">Link to Certificate</a>
+     <a href="https://www.coursera.org/account/accomplishments/certificate/YYSF9U246R3L" target="_blank">Certificate</a>
       
      #
 
@@ -43,7 +45,7 @@ Because I do not have a undergraduate background in computer science, online cou
       dashboards (Excel, IBM Cognos Analytics)
       
 
-     <a href="https://www.coursera.org/account/accomplishments/certificate/8RU5BRBDGAZD" target="_blank">Link to Certificate</a>
+     <a href="https://www.coursera.org/account/accomplishments/certificate/8RU5BRBDGAZD" target="_blank">Certificate</a>
       
      #
 
@@ -58,7 +60,7 @@ Because I do not have a undergraduate background in computer science, online cou
       (webscraping using BeautifulSoup, REST APIs) 
 
     
-     <a href="https://www.coursera.org/account/accomplishments/certificate/VVCSZLXUD5QW" target="_blank">Link to Certificate</a>
+     <a href="https://www.coursera.org/account/accomplishments/certificate/VVCSZLXUD5QW" target="_blank">Certificate</a>
       
      #
 
@@ -88,7 +90,7 @@ Because I do not have a undergraduate background in computer science, online cou
                   6. Plot GameStop stock graph
 
      
-     <a href="https://www.coursera.org/account/accomplishments/certificate/9CBD4663E44Z" target="_blank">Link to Certificate</a>  
+     <a href="https://www.coursera.org/account/accomplishments/certificate/9CBD4663E44Z" target="_blank">Certificate</a>  
       
      #
       
@@ -102,9 +104,9 @@ Because I do not have a undergraduate background in computer science, online cou
       creating tables, inserting and querying data
       
       
-     <a href="https://www.coursera.org/account/accomplishments/certificate/5W75L9BKSSCH" target="_blank">Link to Certificate</a>
+     <a href="https://www.coursera.org/account/accomplishments/certificate/5W75L9BKSSCH" target="_blank">Certificate</a>
      
-     <a href="https://www.credly.com/badges/4ca513e7-444e-4367-9c2d-c9b9b5d32c83/public_url" target="_blank">Link to Badge</a>
+     <a href="https://www.credly.com/badges/4ca513e7-444e-4367-9c2d-c9b9b5d32c83/public_url" target="_blank">Badge</a>
      #
      
 * <a href="https://www.coursera.org/learn/data-analysis-with-python?specialization=ibm-data-analyst" target="_blank"><b>Data Analysis with Python</b>  </a>   
@@ -119,7 +121,7 @@ Because I do not have a undergraduate background in computer science, online cou
       evaluation, prediction and decision making), model evaluation and refinement (overfitting,
       underfitting, model selection, ridge regression, grid search)
      
-     <a href="https://www.coursera.org/account/accomplishments/certificate/3RUJEUM5V2HY">Link to Certificate</a>
+     <a href="https://www.coursera.org/account/accomplishments/certificate/3RUJEUM5V2HY">Certificate</a>
      
      #
       
@@ -134,13 +136,12 @@ Because I do not have a undergraduate background in computer science, online cou
       intro to plotly basics(scatter, line, bar, bubble, histogram, pie, sunburst),
       dashboards with plotly
       
-     <a href="https://www.coursera.org/account/accomplishments/certificate/FXNAESSCAVXE">Link to Certificate</a>
+     <a href="https://www.coursera.org/account/accomplishments/certificate/FXNAESSCAVXE">Certificate</a>
      
      #
       
 * <a href="https://www.coursera.org/learn/ibm-data-analyst-capstone-project?specialization=ibm-data-analyst" target="_blank"><b>IBM Data Analyst Capstone Project</b></a> 
 
-        - IN PROGRESS - 
         6-week capstone project: collecting data using APIs, collecting data using webscraping, exploring 
         dataset, data wrangling (finding and removing duplicates, finding and inputting missing values, 
         normalizing data), exploratory data analysis (analyzing data distribution, handling outliers, 
@@ -148,7 +149,8 @@ Because I do not have a undergraduate background in computer science, online cou
         relationship of data using scatterplots, composition of data using pie charts and stacked
         charts, comparison of data using bar charts and line charts), building Cognos dashboard, 
         final presentation
-        
+     
+      <a href="https://www.coursera.org/account/accomplishments/certificate/FXNAESSCAVXE">Certificate</a>
      #
      
 
@@ -156,8 +158,8 @@ Because I do not have a undergraduate background in computer science, online cou
 
 * <a href="https://www.coursera.org/learn/python-project-for-data-engineering?specialization=ibm-data-engineer" target="_blank"><b>Python Project for Data Engineering<b></a> 
 
-      https://www.coursera.org/account/accomplishments/certificate/U86M9X3J7CWG
-     
+      
+     <a href="https://www.coursera.org/account/accomplishments/certificate/U86M9X3J7CWG">Certificate</a>
      #
 
 * <a href="https://www.coursera.org/learn/python-crash-course?specialization=it-automation-certificate" target="_blank"><b>Crash Course on Python<b></a> 
@@ -166,7 +168,7 @@ Because I do not have a undergraduate background in computer science, online cou
       conditionals), loops (for and while), strings, lists, dictionaries, final project
      
       
-     <a href="https://www.coursera.org/account/accomplishments/certificate/PG4Y74ZA5BRA">Link to Certificate</a>
+     <a href="https://www.coursera.org/account/accomplishments/certificate/PG4Y74ZA5BRA">Certificate</a>
     
      #
       
@@ -176,7 +178,7 @@ Because I do not have a undergraduate background in computer science, online cou
       loops and functions, data structures (sets, tuples, lists), dictionaries, files (reading,
       writing, appending to a file)
       
-     <a href="https://www.coursera.org/account/accomplishments/certificate/2LKYW4QCT8CL">Link to Certificate</a>
+     <a href="https://www.coursera.org/account/accomplishments/certificate/2LKYW4QCT8CL">Certificate</a>
       
      #
 * <a href="https://www.coursera.org/learn/data-analysis-python?specialization=programming-python-java" target="_blank"><b>Data Analysis Using Python<b></a>  
@@ -187,7 +189,7 @@ Because I do not have a undergraduate background in computer science, online cou
       for histograms, scatterplots, bar charts, pivot tables)
       
      
-     <a href="https://www.coursera.org/account/accomplishments/certificate/PMNUJNFQDQCC">Link to Certificate</a>
+     <a href="https://www.coursera.org/account/accomplishments/certificate/PMNUJNFQDQCC">Certificate</a>
 
     #
 
@@ -201,7 +203,7 @@ Because I do not have a undergraduate background in computer science, online cou
       
       
 
-     <a href="https://www.coursera.org/account/accomplishments/certificate/H4EG3HD7RKEC">Link to Certificate</a>
+     <a href="https://www.coursera.org/account/accomplishments/certificate/H4EG3HD7RKEC">Certificate</a>
 
 
 
