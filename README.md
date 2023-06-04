@@ -1,6 +1,6 @@
 
 
-[Personal Projects](https://github.com/a-r-abraham/Portfolio_DataAnalysis/blob/main/README.md#personal-projects) | [Certifications](https://github.com/a-r-abraham/Portfolio_DataAnalysis/edit/main/README.md#certifications)
+[Personal Projects](https://github.com/a-r-abraham/Portfolio_DataAnalysis/blob/main/README.md#personal-projects) | [Certifications](https://github.com/a-r-abraham/Portfolio_DataAnalysis/blob/main/README.md#certifications)
 
 # Personal Projects
 
