@@ -1,17 +1,26 @@
 
+
 <a href="https://github.com/a-r-abraham/Portfolio_DataAnalysis/edit/main/README.md#personal-projects" target="_blank"><b>Personal Projects<b></a>  | <a href="https://github.com/a-r-abraham/Portfolio_DataAnalysis/edit/main/README.md#ibm-data-analyst-professional-certificate" target="_blank"><b>Certifications<b></a> 
 
 # Personal Projects
+        
+Final Presentation: 
+Final Paper:
+
+
 
 Project: COVID Vaccination Rates between Red and Blue States
-Description: This is my final project for Applied Statistics in Health at UTRGV. I wanted to explore how political party affiliation could be related to COVID vaccination rates by comparing rates between blue states and red states. I first prove there is a difference between vaccination rates in the two groups (hypothesis testing, t-testing), 
+
+Description: This is my final project for Applied Statistics in Health at UTRGV. I wanted to explore how political party affiliation could impact healthcare decision making by comparing COVID vaccination rates between blue states and red states. I first prove there is a difference between vaccination rates in the two groups (hypothesis testing through t-test/wilson rank sum). Then I delve into some of the factors that contribute to vaccine hesitancy. 
 
 Part 1: Webscraping
+
 I webscraped from two different sites and 1 online pdf to get relevant data (election results, vaccination data, political state ranking).
 Language: Python
 Skills: BeautifulSoup, numpy, pandas, requests, html.parser
 
 Part 2: Data Cleaning
+
 I cleaned up each of the three tables and combined everything into one dataframe, which was then exported as a csv file. 
 Lanuage: Python 
 Skills: numpy, pandas
