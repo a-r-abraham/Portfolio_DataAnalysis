@@ -8,6 +8,13 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 Because I do not have a undergraduate background in computer science, online courses are how I learn. I have provided a quick breakdown of every certificate I have/am currently working on and what all I learned with each one. 
 
+### <b>Tableau Desktop Specialist</b> 
+<a href="https://www.credly.com/badges/52b9d421-8059-4457-adac-39b20f766b29/public_url" target="_blank">Badge</a>
+       
+      Self-taught Tableau basics; highly interested in developing these skills
+  
+
+#
       
 ### <b>IBM Data Analyst Professional Certificate</b> 
 
@@ -106,7 +113,6 @@ Because I do not have a undergraduate background in computer science, online cou
       
      <a href="https://www.coursera.org/account/accomplishments/certificate/5W75L9BKSSCH" target="_blank">Certificate</a>
      
-     <a href="https://www.credly.com/badges/4ca513e7-444e-4367-9c2d-c9b9b5d32c83/public_url" target="_blank">Badge</a>
      #
      
 * <a href="https://www.coursera.org/learn/data-analysis-with-python?specialization=ibm-data-analyst" target="_blank"><b>Data Analysis with Python</b>  </a>   
