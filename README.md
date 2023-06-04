@@ -21,7 +21,9 @@ Description: This is my final project for Applied Statistics in Health at UTRGV.
 Part 1: Webscraping
 
 I webscraped from two different sites and 1 online pdf to get relevant data (election results, vaccination data, political state ranking).
+
 Language: Python
+
 Skills: webscraping, BeautifulSoup, numpy, pandas, requests, html.parser
 
 Part 2: Data Cleaning
@@ -41,7 +43,7 @@ Skills: statistical analysis and data visualization
 
 # Certifications 
 
-Because I do not have a undergraduate background in computer science, online courses are how I learn. I have provided a quick breakdown of every certificate I have/am currently working on and what all I learned with each one. 
+Each certification has a link to the certificate and any projects/homeworks associated with them. 
 
 ### <b>Tableau Desktop Specialist</b> 
 <a href="https://www.credly.com/badges/52b9d421-8059-4457-adac-39b20f766b29/public_url" target="_blank">Badge</a>
