@@ -1,36 +1,42 @@
 
+dfdfd | dfdfd
 
-<a href="https://github.com/a-r-abraham/Portfolio_DataAnalysis/edit/main/README.md#personal-projects" target="_blank"><b>Personal Projects<b></a>  | <a href="https://github.com/a-r-abraham/Portfolio_DataAnalysis/edit/main/README.md#ibm-data-analyst-professional-certificate" target="_blank"><b>Certifications<b></a> 
+[Personal Projects](https://github.com/a-r-abraham/Portfolio_DataAnalysis/edit/main/README.md#personal-projects) |
+
 
 # Personal Projects
-        
-Final Presentation: 
-Final Paper:
-
-
 
 Project: COVID Vaccination Rates between Red and Blue States
+       
+Final Presentation: [COVID Vaccination Rates between Red and Blue states](https://github.com/a-r-abraham/Personal_Projects/blob/main/Final%20Presentation.pptx) 
 
+Final Paper: [COVID Vaccination Rates between Red and Blue states](https://github.com/a-r-abraham/Personal_Projects/blob/main/FinalPaperAnjuAbrahamSTAT233401.pdf) 
+
+Code: 
+* [Webscraping and Data Cleaning](https://github.com/a-r-abraham/Personal_Projects/blob/main/COVID%20Vaccination%20Rates%20between%20Red%20and%20Blue%20states%20(data%20collection%2C%20data%20cleaning).ipynb)
+* [Analysis and Visualization](https://github.com/a-r-abraham/Personal_Projects/blob/main/COVID%20Vaccination%20Rates%20between%20Red%20and%20Blue%20states%20(analysis%20and%20visualization).ipynb)
+* [Project R file]()
+
+        
 Description: This is my final project for Applied Statistics in Health at UTRGV. I wanted to explore how political party affiliation could impact healthcare decision making by comparing COVID vaccination rates between blue states and red states. I first prove there is a difference between vaccination rates in the two groups (hypothesis testing through t-test/wilson rank sum). Then I delve into some of the factors that contribute to vaccine hesitancy. 
 
 Part 1: Webscraping
 
 I webscraped from two different sites and 1 online pdf to get relevant data (election results, vaccination data, political state ranking).
 Language: Python
-Skills: BeautifulSoup, numpy, pandas, requests, html.parser
+Skills: webscraping, BeautifulSoup, numpy, pandas, requests, html.parser
 
 Part 2: Data Cleaning
 
 I cleaned up each of the three tables and combined everything into one dataframe, which was then exported as a csv file. 
 Lanuage: Python 
-Skills: numpy, pandas
+Skills: data cleaning, numpy, pandas
 
-Part 3: Data Visualization 
-Language: Python, R
+Part 3/4: Data Visualization & Data Analysis 
 
-Part 4: Data Analysis 
-Language: Python, R
-I conducted hypothesis using t-testing with Python and R. 
+I did hypothesis testing (t-testing, wilson rank sum) to find p-values. 
+Language: R
+Skills: statistical analysis and data visualization
 
        
 
