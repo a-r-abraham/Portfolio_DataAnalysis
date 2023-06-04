@@ -1,8 +1,6 @@
 
-dfdfd | dfdfd
 
-[Personal Projects](https://github.com/a-r-abraham/Portfolio_DataAnalysis/edit/main/README.md#personal-projects) |
-
+[Personal Projects](https://github.com/a-r-abraham/Portfolio_DataAnalysis/edit/main/README.md#personal-projects) | [Certifications](https://github.com/a-r-abraham/Portfolio_DataAnalysis/edit/main/README.md#certifications)
 
 # Personal Projects
 
