@@ -1,6 +1,6 @@
 
 
-[Personal Projects](https://github.com/a-r-abraham/Portfolio_DataAnalysis/blob/main/README.md#personal-projects) | [Certifications](https://github.com/a-r-abraham/Portfolio_DataAnalysis/blob/main/README.md#certifications) | [Python Coding Practice]()
+[Personal Projects](https://github.com/a-r-abraham/Portfolio_DataAnalysis/blob/main/README.md#personal-projects) | [Certifications](https://github.com/a-r-abraham/Portfolio_DataAnalysis/blob/main/README.md#certifications) | [Python Coding Practice](https://github.com/a-r-abraham/Portfolio_DataAnalysis/blob/main/README.md#python-coding-practice)
 
 # Personal Projects
 
