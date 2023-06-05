@@ -1,6 +1,6 @@
 
 
-[Personal Projects](https://github.com/a-r-abraham/Portfolio_DataAnalysis/blob/main/README.md#personal-projects) | [Certifications](https://github.com/a-r-abraham/Portfolio_DataAnalysis/blob/main/README.md#certifications)
+[Personal Projects](https://github.com/a-r-abraham/Portfolio_DataAnalysis/blob/main/README.md#personal-projects) | [Certifications](https://github.com/a-r-abraham/Portfolio_DataAnalysis/blob/main/README.md#certifications) | [Python Coding Practice]()
 
 # Personal Projects
 
@@ -247,6 +247,10 @@ Each certification has a link to the certificate and any projects/homeworks asso
       
 
      <a href="https://www.coursera.org/account/accomplishments/certificate/H4EG3HD7RKEC">Certificate</a>
+       
+       
 
-
+# Python Coding Practice
+       
+ [Go to repository](https://github.com/a-r-abraham/Python)
 
